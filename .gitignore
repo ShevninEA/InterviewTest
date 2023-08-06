@@ -1,0 +1,7 @@
+/.git
+/.vs
+/*.user
+bin
+obj
+/ObjDir
+/packages
